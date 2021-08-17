@@ -1,2 +1,3 @@
 # Test-repo
-My first repository
+My first repository,
+this is my first commit
